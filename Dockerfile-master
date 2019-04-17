@@ -1,0 +1,4 @@
+FROM jmeter-base:latest
+MAINTAINER NFR-BAHUBALI
+		
+EXPOSE 60000
